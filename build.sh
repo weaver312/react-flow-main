@@ -1,6 +1,6 @@
-npm install
-npm install react-flow-renderer
+yarn
+yarn install react-flow-renderer
 cd example
-npm install react-flow-renderer
-npm install
-npm run build
+yarn install react-flow-renderer
+yarn
+yarn build
